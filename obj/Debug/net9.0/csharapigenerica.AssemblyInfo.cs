@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharapigenerica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fee9f6e2d60c2251682af4267b95d03a293c04cb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7ec50d372e56c4156578852978347c40125b39")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharapigenerica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharapigenerica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
